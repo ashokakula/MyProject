@@ -7,7 +7,12 @@ package com.devops.app;
 public class Hello 
 {
     public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+	
+	{
+	}
+		public String hello()
+		{
+        return  "Hello Ashok..This is your first java program..!"; 
+		}
+    
 }
